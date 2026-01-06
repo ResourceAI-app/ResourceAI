@@ -29,6 +29,12 @@
 
 Unlike web-based AI services, ResourceAI runs **locally**. Your prompts, documents, and chat history never leave your device. We combine a high-performance **Rust** backend with a beautiful **Flutter** frontend to deliver a smooth, native experience on macOS and Windows.
 
+## 🎥 See it in Action
+
+[![ResourceAI Demo](https://resourceai.fenixresource.com/docs/1-overview.png)](https://resourceai.fenixresource.com/videos/test-llm.mov)
+
+> *Click the image above to watch the demo video.*
+
 ## ✨ Key Features
 
 - **🔒 Absolute Privacy:** All inference happens in RAM. Chat history is stored in a local encrypted SQLite database.
