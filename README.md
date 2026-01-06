@@ -38,8 +38,6 @@ muted loop>
     </video>                                                                                                  
 </div>
 
-> *Click the image above to watch the demo video.*
-
 ## ✨ Key Features
 
 - **🔒 Absolute Privacy:** All inference happens in RAM. Chat history is stored in a local encrypted SQLite database.
