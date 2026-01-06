@@ -11,8 +11,7 @@
 
   <p>
     <a href="https://resourceai.fenixresource.com"><strong>Website & Download</strong></a> · 
-    <a href="https://github.com/ResourceAI-app/resourceai/issues">Report Bug</a> · 
-    <a href="#installation">Installation</a>
+    <a href="https://github.com/ResourceAI-app/resourceai/issues">Report Bug</a>
   </p>
 
   <br>
@@ -90,6 +89,22 @@ Real-world performance observed on common consumer hardware:
 | **Windows Desktop** (RTX 3070) | 8B (Llama 3) | ~45 t/s | Excellent |
 | **Windows Laptop** (Intel Iris Xe) | 3B (Phi-3) | ~10-15 t/s | Usable/Good |
 | **Windows Laptop** (Intel UHD) | 1B (Q4) | ~15 t/s | Good |
+
+---
+
+## 🗺️ Roadmap
+
+We are constantly improving ResourceAI. Here is what we are working on:
+
+- [x] **RAG (Retrieval-Augmented Generation):** Chat with your PDF, DOCX, and TXT files locally.
+- [x] **Auto-Updater:** Seamless in-app updates for both the binary and the model definitions.
+- [ ] **Web Search:** Allow the model to fetch real-time information from the web while maintaining privacy.
+- [ ] **Custom System Prompts:** Personalized system instructions per user/conversation.
+- [ ] **Local File Search:** Find files on your computer using natural language.
+- [ ] **Local File Creation:** Generate and save files (code, text, reports) directly to your local storage.
+- [ ] **CUDA Support (Windows):** Optional backend for NVIDIA users to unlock maximum performance.
+- [ ] **Vision Models:** Support for LLaVA and other multimodal models (chat with images).
+- [ ] **Linux Support:** Native .AppImage or .deb release.
 
 ---
 
