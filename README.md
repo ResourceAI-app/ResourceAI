@@ -31,7 +31,12 @@ Unlike web-based AI services, ResourceAI runs **locally**. Your prompts, documen
 
 ## 🎥 See it in Action
 
-[![ResourceAI Demo](https://resourceai.fenixresource.com/docs/1-overview.png)](https://resourceai.fenixresource.com/videos/test-llm.mov)
+<div align="center">                                                                                        
+  <video src="https://resourceai.fenixresource.com/videos/test-llm.mov" width="100%" controls autoplay      
+muted loop>                                                                                                   
+      Your browser does not support the video tag.                                                            
+    </video>                                                                                                  
+</div>
 
 > *Click the image above to watch the demo video.*
 
